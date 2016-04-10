@@ -1,1 +1,1 @@
-My anwers to [Node School](http://nodeschool.io) workshops. Public domain.
+My answers to [Node School](http://nodeschool.io) workshops. Public domain.
